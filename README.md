@@ -430,3 +430,83 @@ It also stores:
 - Apply least-privilege IAM roles for BigQuery access
 - Document schemas and ownership in a data catalog / README
 
+## Task 4 - Dockerizing the ETL Pipeline
+
+### Overview
+I containerized the ETL pipeline (`data_pipeline.py`) using Docker so it can run consistently across environments.
+
+The container:
+- installs Python 3.12.1
+- installs dependencies using `uv` (`pyproject.toml` + `uv.lock`)
+- runs the ETL script
+- supports external environment variables and mounted GCP credentials
+
+---
+
+### Files Added
+- `pipeline/Dockerfile`
+- `pipeline/.dockerignore`
+- `pipeline/.env.example`
+
+---
+
+### Build the Docker Image
+
+From the project root:
+
+```bash
+docker build -t dish-etl:latest ./pipeline
+```
+
+Or from inside `pipeline/`:
+
+```bash
+docker build -t dish-etl:latest .
+```
+
+---
+
+### Run the Container
+
+From inside `pipeline/`:
+
+```bash
+docker run --rm \
+  --env-file .env \
+  -e GOOGLE_APPLICATION_CREDENTIALS=/app/credentials/service_account.json \
+  -v "$(pwd)/service_account.json:/app/credentials/service_account.json:ro" \
+  -v "$(pwd)/raw_responses:/app/raw_responses" \
+  -v "$(pwd)/run_manifests:/app/run_manifests" \
+  dish-etl:latest
+```
+
+> Replace `service_account.json` with the actual filename of your GCP service account key.
+
+---
+
+### Environment Variables
+The ETL script expects these environment variables (provided via `.env`):
+
+- `API_KEY`
+- `GCP_PROJECT`
+- `BQ_DATASET`
+- `BQ_LOCATION`
+- `GOOGLE_APPLICATION_CREDENTIALS` (path inside the container)
+
+A safe template is provided in:
+- `pipeline/.env.example`
+
+---
+
+### Credentials Handling
+BigQuery authentication is handled using Google Application Default Credentials (ADC) via the `GOOGLE_APPLICATION_CREDENTIALS` environment variable.
+
+The service account JSON is mounted at runtime and is not copied into the Docker image.
+
+---
+
+### Docker Best Practices Applied
+- Uses `python:3.12.1-slim`
+- Uses `uv` with `uv.lock` for reproducible installs
+- Excludes secrets and generated files with `.dockerignore`
+- Does not bake `.env` or service account credentials into the image
