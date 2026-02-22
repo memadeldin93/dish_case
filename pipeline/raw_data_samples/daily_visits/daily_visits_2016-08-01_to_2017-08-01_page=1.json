@@ -1,0 +1,1485 @@
+{
+  "filters_applied": {
+    "end_date": "2017-08-01",
+    "start_date": "2016-08-01"
+  },
+  "metadata": {
+    "api_version": "1.0",
+    "dataset": "bigquery-public-data.google_analytics_sample.daily_visits",
+    "records_returned": 366
+  },
+  "pagination": {
+    "has_next": false,
+    "has_previous": false,
+    "limit": 500,
+    "page": 1,
+    "total_pages": 1,
+    "total_records": 366
+  },
+  "records": [
+    {
+      "total_visits": 2587,
+      "visit_date": "2017-08-01"
+    },
+    {
+      "total_visits": 2556,
+      "visit_date": "2017-07-31"
+    },
+    {
+      "total_visits": 1627,
+      "visit_date": "2017-07-30"
+    },
+    {
+      "total_visits": 1806,
+      "visit_date": "2017-07-29"
+    },
+    {
+      "total_visits": 2393,
+      "visit_date": "2017-07-28"
+    },
+    {
+      "total_visits": 2577,
+      "visit_date": "2017-07-27"
+    },
+    {
+      "total_visits": 2833,
+      "visit_date": "2017-07-26"
+    },
+    {
+      "total_visits": 2432,
+      "visit_date": "2017-07-25"
+    },
+    {
+      "total_visits": 2530,
+      "visit_date": "2017-07-24"
+    },
+    {
+      "total_visits": 1763,
+      "visit_date": "2017-07-23"
+    },
+    {
+      "total_visits": 1769,
+      "visit_date": "2017-07-22"
+    },
+    {
+      "total_visits": 2631,
+      "visit_date": "2017-07-21"
+    },
+    {
+      "total_visits": 2585,
+      "visit_date": "2017-07-20"
+    },
+    {
+      "total_visits": 2626,
+      "visit_date": "2017-07-19"
+    },
+    {
+      "total_visits": 2711,
+      "visit_date": "2017-07-18"
+    },
+    {
+      "total_visits": 2543,
+      "visit_date": "2017-07-17"
+    },
+    {
+      "total_visits": 1699,
+      "visit_date": "2017-07-16"
+    },
+    {
+      "total_visits": 1776,
+      "visit_date": "2017-07-15"
+    },
+    {
+      "total_visits": 2631,
+      "visit_date": "2017-07-14"
+    },
+    {
+      "total_visits": 2642,
+      "visit_date": "2017-07-13"
+    },
+    {
+      "total_visits": 2488,
+      "visit_date": "2017-07-12"
+    },
+    {
+      "total_visits": 2784,
+      "visit_date": "2017-07-11"
+    },
+    {
+      "total_visits": 2632,
+      "visit_date": "2017-07-10"
+    },
+    {
+      "total_visits": 1793,
+      "visit_date": "2017-07-09"
+    },
+    {
+      "total_visits": 1964,
+      "visit_date": "2017-07-08"
+    },
+    {
+      "total_visits": 2518,
+      "visit_date": "2017-07-07"
+    },
+    {
+      "total_visits": 2738,
+      "visit_date": "2017-07-06"
+    },
+    {
+      "total_visits": 2690,
+      "visit_date": "2017-07-05"
+    },
+    {
+      "total_visits": 2005,
+      "visit_date": "2017-07-04"
+    },
+    {
+      "total_visits": 1949,
+      "visit_date": "2017-07-03"
+    },
+    {
+      "total_visits": 1955,
+      "visit_date": "2017-07-02"
+    },
+    {
+      "total_visits": 2147,
+      "visit_date": "2017-07-01"
+    },
+    {
+      "total_visits": 2510,
+      "visit_date": "2017-06-30"
+    },
+    {
+      "total_visits": 2673,
+      "visit_date": "2017-06-29"
+    },
+    {
+      "total_visits": 2720,
+      "visit_date": "2017-06-28"
+    },
+    {
+      "total_visits": 2705,
+      "visit_date": "2017-06-27"
+    },
+    {
+      "total_visits": 2153,
+      "visit_date": "2017-06-26"
+    },
+    {
+      "total_visits": 1496,
+      "visit_date": "2017-06-25"
+    },
+    {
+      "total_visits": 1572,
+      "visit_date": "2017-06-24"
+    },
+    {
+      "total_visits": 2140,
+      "visit_date": "2017-06-23"
+    },
+    {
+      "total_visits": 2364,
+      "visit_date": "2017-06-22"
+    },
+    {
+      "total_visits": 2211,
+      "visit_date": "2017-06-21"
+    },
+    {
+      "total_visits": 2187,
+      "visit_date": "2017-06-20"
+    },
+    {
+      "total_visits": 2098,
+      "visit_date": "2017-06-19"
+    },
+    {
+      "total_visits": 1300,
+      "visit_date": "2017-06-18"
+    },
+    {
+      "total_visits": 1491,
+      "visit_date": "2017-06-17"
+    },
+    {
+      "total_visits": 2131,
+      "visit_date": "2017-06-16"
+    },
+    {
+      "total_visits": 2299,
+      "visit_date": "2017-06-15"
+    },
+    {
+      "total_visits": 2417,
+      "visit_date": "2017-06-14"
+    },
+    {
+      "total_visits": 2240,
+      "visit_date": "2017-06-13"
+    },
+    {
+      "total_visits": 2224,
+      "visit_date": "2017-06-12"
+    },
+    {
+      "total_visits": 1601,
+      "visit_date": "2017-06-11"
+    },
+    {
+      "total_visits": 1497,
+      "visit_date": "2017-06-10"
+    },
+    {
+      "total_visits": 2021,
+      "visit_date": "2017-06-09"
+    },
+    {
+      "total_visits": 2271,
+      "visit_date": "2017-06-08"
+    },
+    {
+      "total_visits": 2275,
+      "visit_date": "2017-06-07"
+    },
+    {
+      "total_visits": 2457,
+      "visit_date": "2017-06-06"
+    },
+    {
+      "total_visits": 2372,
+      "visit_date": "2017-06-05"
+    },
+    {
+      "total_visits": 1466,
+      "visit_date": "2017-06-04"
+    },
+    {
+      "total_visits": 1454,
+      "visit_date": "2017-06-03"
+    },
+    {
+      "total_visits": 2396,
+      "visit_date": "2017-06-02"
+    },
+    {
+      "total_visits": 2684,
+      "visit_date": "2017-06-01"
+    },
+    {
+      "total_visits": 2265,
+      "visit_date": "2017-05-31"
+    },
+    {
+      "total_visits": 2175,
+      "visit_date": "2017-05-30"
+    },
+    {
+      "total_visits": 1756,
+      "visit_date": "2017-05-29"
+    },
+    {
+      "total_visits": 1403,
+      "visit_date": "2017-05-28"
+    },
+    {
+      "total_visits": 1512,
+      "visit_date": "2017-05-27"
+    },
+    {
+      "total_visits": 2170,
+      "visit_date": "2017-05-26"
+    },
+    {
+      "total_visits": 2223,
+      "visit_date": "2017-05-25"
+    },
+    {
+      "total_visits": 2321,
+      "visit_date": "2017-05-24"
+    },
+    {
+      "total_visits": 2227,
+      "visit_date": "2017-05-23"
+    },
+    {
+      "total_visits": 2119,
+      "visit_date": "2017-05-22"
+    },
+    {
+      "total_visits": 1652,
+      "visit_date": "2017-05-21"
+    },
+    {
+      "total_visits": 1828,
+      "visit_date": "2017-05-20"
+    },
+    {
+      "total_visits": 2478,
+      "visit_date": "2017-05-19"
+    },
+    {
+      "total_visits": 2870,
+      "visit_date": "2017-05-18"
+    },
+    {
+      "total_visits": 2923,
+      "visit_date": "2017-05-17"
+    },
+    {
+      "total_visits": 3031,
+      "visit_date": "2017-05-16"
+    },
+    {
+      "total_visits": 2177,
+      "visit_date": "2017-05-15"
+    },
+    {
+      "total_visits": 1203,
+      "visit_date": "2017-05-14"
+    },
+    {
+      "total_visits": 1269,
+      "visit_date": "2017-05-13"
+    },
+    {
+      "total_visits": 2118,
+      "visit_date": "2017-05-12"
+    },
+    {
+      "total_visits": 2148,
+      "visit_date": "2017-05-11"
+    },
+    {
+      "total_visits": 2041,
+      "visit_date": "2017-05-10"
+    },
+    {
+      "total_visits": 2096,
+      "visit_date": "2017-05-09"
+    },
+    {
+      "total_visits": 1990,
+      "visit_date": "2017-05-08"
+    },
+    {
+      "total_visits": 1302,
+      "visit_date": "2017-05-07"
+    },
+    {
+      "total_visits": 1455,
+      "visit_date": "2017-05-06"
+    },
+    {
+      "total_visits": 2251,
+      "visit_date": "2017-05-05"
+    },
+    {
+      "total_visits": 2633,
+      "visit_date": "2017-05-04"
+    },
+    {
+      "total_visits": 2646,
+      "visit_date": "2017-05-03"
+    },
+    {
+      "total_visits": 2527,
+      "visit_date": "2017-05-02"
+    },
+    {
+      "total_visits": 2524,
+      "visit_date": "2017-05-01"
+    },
+    {
+      "total_visits": 1488,
+      "visit_date": "2017-04-30"
+    },
+    {
+      "total_visits": 1661,
+      "visit_date": "2017-04-29"
+    },
+    {
+      "total_visits": 2502,
+      "visit_date": "2017-04-28"
+    },
+    {
+      "total_visits": 3103,
+      "visit_date": "2017-04-27"
+    },
+    {
+      "total_visits": 3900,
+      "visit_date": "2017-04-26"
+    },
+    {
+      "total_visits": 2335,
+      "visit_date": "2017-04-25"
+    },
+    {
+      "total_visits": 2241,
+      "visit_date": "2017-04-24"
+    },
+    {
+      "total_visits": 1489,
+      "visit_date": "2017-04-23"
+    },
+    {
+      "total_visits": 1658,
+      "visit_date": "2017-04-22"
+    },
+    {
+      "total_visits": 2305,
+      "visit_date": "2017-04-21"
+    },
+    {
+      "total_visits": 2415,
+      "visit_date": "2017-04-20"
+    },
+    {
+      "total_visits": 2321,
+      "visit_date": "2017-04-19"
+    },
+    {
+      "total_visits": 2443,
+      "visit_date": "2017-04-18"
+    },
+    {
+      "total_visits": 2162,
+      "visit_date": "2017-04-17"
+    },
+    {
+      "total_visits": 1464,
+      "visit_date": "2017-04-16"
+    },
+    {
+      "total_visits": 1578,
+      "visit_date": "2017-04-15"
+    },
+    {
+      "total_visits": 1910,
+      "visit_date": "2017-04-14"
+    },
+    {
+      "total_visits": 2254,
+      "visit_date": "2017-04-13"
+    },
+    {
+      "total_visits": 2434,
+      "visit_date": "2017-04-12"
+    },
+    {
+      "total_visits": 2453,
+      "visit_date": "2017-04-11"
+    },
+    {
+      "total_visits": 2567,
+      "visit_date": "2017-04-10"
+    },
+    {
+      "total_visits": 1622,
+      "visit_date": "2017-04-09"
+    },
+    {
+      "total_visits": 1881,
+      "visit_date": "2017-04-08"
+    },
+    {
+      "total_visits": 2396,
+      "visit_date": "2017-04-07"
+    },
+    {
+      "total_visits": 2656,
+      "visit_date": "2017-04-06"
+    },
+    {
+      "total_visits": 2679,
+      "visit_date": "2017-04-05"
+    },
+    {
+      "total_visits": 2866,
+      "visit_date": "2017-04-04"
+    },
+    {
+      "total_visits": 2336,
+      "visit_date": "2017-04-03"
+    },
+    {
+      "total_visits": 1832,
+      "visit_date": "2017-04-02"
+    },
+    {
+      "total_visits": 2205,
+      "visit_date": "2017-04-01"
+    },
+    {
+      "total_visits": 2337,
+      "visit_date": "2017-03-31"
+    },
+    {
+      "total_visits": 2758,
+      "visit_date": "2017-03-30"
+    },
+    {
+      "total_visits": 2537,
+      "visit_date": "2017-03-29"
+    },
+    {
+      "total_visits": 2587,
+      "visit_date": "2017-03-28"
+    },
+    {
+      "total_visits": 2422,
+      "visit_date": "2017-03-27"
+    },
+    {
+      "total_visits": 1674,
+      "visit_date": "2017-03-26"
+    },
+    {
+      "total_visits": 1750,
+      "visit_date": "2017-03-25"
+    },
+    {
+      "total_visits": 2459,
+      "visit_date": "2017-03-24"
+    },
+    {
+      "total_visits": 2954,
+      "visit_date": "2017-03-23"
+    },
+    {
+      "total_visits": 2559,
+      "visit_date": "2017-03-22"
+    },
+    {
+      "total_visits": 2572,
+      "visit_date": "2017-03-21"
+    },
+    {
+      "total_visits": 2311,
+      "visit_date": "2017-03-20"
+    },
+    {
+      "total_visits": 1664,
+      "visit_date": "2017-03-19"
+    },
+    {
+      "total_visits": 1647,
+      "visit_date": "2017-03-18"
+    },
+    {
+      "total_visits": 2225,
+      "visit_date": "2017-03-17"
+    },
+    {
+      "total_visits": 2434,
+      "visit_date": "2017-03-16"
+    },
+    {
+      "total_visits": 2459,
+      "visit_date": "2017-03-15"
+    },
+    {
+      "total_visits": 2345,
+      "visit_date": "2017-03-14"
+    },
+    {
+      "total_visits": 2534,
+      "visit_date": "2017-03-13"
+    },
+    {
+      "total_visits": 1705,
+      "visit_date": "2017-03-12"
+    },
+    {
+      "total_visits": 1853,
+      "visit_date": "2017-03-11"
+    },
+    {
+      "total_visits": 2167,
+      "visit_date": "2017-03-10"
+    },
+    {
+      "total_visits": 2335,
+      "visit_date": "2017-03-09"
+    },
+    {
+      "total_visits": 2448,
+      "visit_date": "2017-03-08"
+    },
+    {
+      "total_visits": 2523,
+      "visit_date": "2017-03-07"
+    },
+    {
+      "total_visits": 2378,
+      "visit_date": "2017-03-06"
+    },
+    {
+      "total_visits": 1725,
+      "visit_date": "2017-03-05"
+    },
+    {
+      "total_visits": 1819,
+      "visit_date": "2017-03-04"
+    },
+    {
+      "total_visits": 2276,
+      "visit_date": "2017-03-03"
+    },
+    {
+      "total_visits": 2214,
+      "visit_date": "2017-03-02"
+    },
+    {
+      "total_visits": 2382,
+      "visit_date": "2017-03-01"
+    },
+    {
+      "total_visits": 2378,
+      "visit_date": "2017-02-28"
+    },
+    {
+      "total_visits": 2196,
+      "visit_date": "2017-02-27"
+    },
+    {
+      "total_visits": 1639,
+      "visit_date": "2017-02-26"
+    },
+    {
+      "total_visits": 1653,
+      "visit_date": "2017-02-25"
+    },
+    {
+      "total_visits": 2205,
+      "visit_date": "2017-02-24"
+    },
+    {
+      "total_visits": 2339,
+      "visit_date": "2017-02-23"
+    },
+    {
+      "total_visits": 2553,
+      "visit_date": "2017-02-22"
+    },
+    {
+      "total_visits": 2563,
+      "visit_date": "2017-02-21"
+    },
+    {
+      "total_visits": 2461,
+      "visit_date": "2017-02-20"
+    },
+    {
+      "total_visits": 1965,
+      "visit_date": "2017-02-19"
+    },
+    {
+      "total_visits": 1908,
+      "visit_date": "2017-02-18"
+    },
+    {
+      "total_visits": 2763,
+      "visit_date": "2017-02-17"
+    },
+    {
+      "total_visits": 2599,
+      "visit_date": "2017-02-16"
+    },
+    {
+      "total_visits": 2561,
+      "visit_date": "2017-02-15"
+    },
+    {
+      "total_visits": 2345,
+      "visit_date": "2017-02-14"
+    },
+    {
+      "total_visits": 2217,
+      "visit_date": "2017-02-13"
+    },
+    {
+      "total_visits": 1724,
+      "visit_date": "2017-02-12"
+    },
+    {
+      "total_visits": 1779,
+      "visit_date": "2017-02-11"
+    },
+    {
+      "total_visits": 2359,
+      "visit_date": "2017-02-10"
+    },
+    {
+      "total_visits": 2686,
+      "visit_date": "2017-02-09"
+    },
+    {
+      "total_visits": 2575,
+      "visit_date": "2017-02-08"
+    },
+    {
+      "total_visits": 2401,
+      "visit_date": "2017-02-07"
+    },
+    {
+      "total_visits": 2112,
+      "visit_date": "2017-02-06"
+    },
+    {
+      "total_visits": 1458,
+      "visit_date": "2017-02-05"
+    },
+    {
+      "total_visits": 1614,
+      "visit_date": "2017-02-04"
+    },
+    {
+      "total_visits": 2301,
+      "visit_date": "2017-02-03"
+    },
+    {
+      "total_visits": 2427,
+      "visit_date": "2017-02-02"
+    },
+    {
+      "total_visits": 2357,
+      "visit_date": "2017-02-01"
+    },
+    {
+      "total_visits": 2364,
+      "visit_date": "2017-01-31"
+    },
+    {
+      "total_visits": 2234,
+      "visit_date": "2017-01-30"
+    },
+    {
+      "total_visits": 1783,
+      "visit_date": "2017-01-29"
+    },
+    {
+      "total_visits": 1565,
+      "visit_date": "2017-01-28"
+    },
+    {
+      "total_visits": 2031,
+      "visit_date": "2017-01-27"
+    },
+    {
+      "total_visits": 2388,
+      "visit_date": "2017-01-26"
+    },
+    {
+      "total_visits": 3558,
+      "visit_date": "2017-01-25"
+    },
+    {
+      "total_visits": 2996,
+      "visit_date": "2017-01-24"
+    },
+    {
+      "total_visits": 2162,
+      "visit_date": "2017-01-23"
+    },
+    {
+      "total_visits": 1610,
+      "visit_date": "2017-01-22"
+    },
+    {
+      "total_visits": 1729,
+      "visit_date": "2017-01-21"
+    },
+    {
+      "total_visits": 2187,
+      "visit_date": "2017-01-20"
+    },
+    {
+      "total_visits": 2085,
+      "visit_date": "2017-01-19"
+    },
+    {
+      "total_visits": 2234,
+      "visit_date": "2017-01-18"
+    },
+    {
+      "total_visits": 2333,
+      "visit_date": "2017-01-17"
+    },
+    {
+      "total_visits": 1935,
+      "visit_date": "2017-01-16"
+    },
+    {
+      "total_visits": 1495,
+      "visit_date": "2017-01-15"
+    },
+    {
+      "total_visits": 1513,
+      "visit_date": "2017-01-14"
+    },
+    {
+      "total_visits": 2106,
+      "visit_date": "2017-01-13"
+    },
+    {
+      "total_visits": 2208,
+      "visit_date": "2017-01-12"
+    },
+    {
+      "total_visits": 2241,
+      "visit_date": "2017-01-11"
+    },
+    {
+      "total_visits": 2304,
+      "visit_date": "2017-01-10"
+    },
+    {
+      "total_visits": 2202,
+      "visit_date": "2017-01-09"
+    },
+    {
+      "total_visits": 1518,
+      "visit_date": "2017-01-08"
+    },
+    {
+      "total_visits": 1662,
+      "visit_date": "2017-01-07"
+    },
+    {
+      "total_visits": 2240,
+      "visit_date": "2017-01-06"
+    },
+    {
+      "total_visits": 2287,
+      "visit_date": "2017-01-05"
+    },
+    {
+      "total_visits": 2364,
+      "visit_date": "2017-01-04"
+    },
+    {
+      "total_visits": 2317,
+      "visit_date": "2017-01-03"
+    },
+    {
+      "total_visits": 1565,
+      "visit_date": "2017-01-02"
+    },
+    {
+      "total_visits": 1229,
+      "visit_date": "2017-01-01"
+    },
+    {
+      "total_visits": 1364,
+      "visit_date": "2016-12-31"
+    },
+    {
+      "total_visits": 1209,
+      "visit_date": "2016-12-30"
+    },
+    {
+      "total_visits": 1684,
+      "visit_date": "2016-12-29"
+    },
+    {
+      "total_visits": 1805,
+      "visit_date": "2016-12-28"
+    },
+    {
+      "total_visits": 1828,
+      "visit_date": "2016-12-27"
+    },
+    {
+      "total_visits": 1543,
+      "visit_date": "2016-12-26"
+    },
+    {
+      "total_visits": 1296,
+      "visit_date": "2016-12-25"
+    },
+    {
+      "total_visits": 1309,
+      "visit_date": "2016-12-24"
+    },
+    {
+      "total_visits": 1710,
+      "visit_date": "2016-12-23"
+    },
+    {
+      "total_visits": 2193,
+      "visit_date": "2016-12-22"
+    },
+    {
+      "total_visits": 2786,
+      "visit_date": "2016-12-21"
+    },
+    {
+      "total_visits": 3097,
+      "visit_date": "2016-12-20"
+    },
+    {
+      "total_visits": 3121,
+      "visit_date": "2016-12-19"
+    },
+    {
+      "total_visits": 2035,
+      "visit_date": "2016-12-18"
+    },
+    {
+      "total_visits": 2641,
+      "visit_date": "2016-12-17"
+    },
+    {
+      "total_visits": 2860,
+      "visit_date": "2016-12-16"
+    },
+    {
+      "total_visits": 2894,
+      "visit_date": "2016-12-15"
+    },
+    {
+      "total_visits": 3137,
+      "visit_date": "2016-12-14"
+    },
+    {
+      "total_visits": 3285,
+      "visit_date": "2016-12-13"
+    },
+    {
+      "total_visits": 3106,
+      "visit_date": "2016-12-12"
+    },
+    {
+      "total_visits": 2121,
+      "visit_date": "2016-12-11"
+    },
+    {
+      "total_visits": 2266,
+      "visit_date": "2016-12-10"
+    },
+    {
+      "total_visits": 2983,
+      "visit_date": "2016-12-09"
+    },
+    {
+      "total_visits": 3043,
+      "visit_date": "2016-12-08"
+    },
+    {
+      "total_visits": 2786,
+      "visit_date": "2016-12-07"
+    },
+    {
+      "total_visits": 3517,
+      "visit_date": "2016-12-06"
+    },
+    {
+      "total_visits": 4096,
+      "visit_date": "2016-12-05"
+    },
+    {
+      "total_visits": 2980,
+      "visit_date": "2016-12-04"
+    },
+    {
+      "total_visits": 3210,
+      "visit_date": "2016-12-03"
+    },
+    {
+      "total_visits": 3866,
+      "visit_date": "2016-12-02"
+    },
+    {
+      "total_visits": 4303,
+      "visit_date": "2016-12-01"
+    },
+    {
+      "total_visits": 4382,
+      "visit_date": "2016-11-30"
+    },
+    {
+      "total_visits": 4614,
+      "visit_date": "2016-11-29"
+    },
+    {
+      "total_visits": 4418,
+      "visit_date": "2016-11-28"
+    },
+    {
+      "total_visits": 3195,
+      "visit_date": "2016-11-27"
+    },
+    {
+      "total_visits": 3313,
+      "visit_date": "2016-11-26"
+    },
+    {
+      "total_visits": 3939,
+      "visit_date": "2016-11-25"
+    },
+    {
+      "total_visits": 3683,
+      "visit_date": "2016-11-24"
+    },
+    {
+      "total_visits": 3810,
+      "visit_date": "2016-11-23"
+    },
+    {
+      "total_visits": 3974,
+      "visit_date": "2016-11-22"
+    },
+    {
+      "total_visits": 4080,
+      "visit_date": "2016-11-21"
+    },
+    {
+      "total_visits": 3006,
+      "visit_date": "2016-11-20"
+    },
+    {
+      "total_visits": 3099,
+      "visit_date": "2016-11-19"
+    },
+    {
+      "total_visits": 3860,
+      "visit_date": "2016-11-18"
+    },
+    {
+      "total_visits": 4134,
+      "visit_date": "2016-11-17"
+    },
+    {
+      "total_visits": 4516,
+      "visit_date": "2016-11-16"
+    },
+    {
+      "total_visits": 4698,
+      "visit_date": "2016-11-15"
+    },
+    {
+      "total_visits": 4013,
+      "visit_date": "2016-11-14"
+    },
+    {
+      "total_visits": 2971,
+      "visit_date": "2016-11-13"
+    },
+    {
+      "total_visits": 3260,
+      "visit_date": "2016-11-12"
+    },
+    {
+      "total_visits": 3779,
+      "visit_date": "2016-11-11"
+    },
+    {
+      "total_visits": 3984,
+      "visit_date": "2016-11-10"
+    },
+    {
+      "total_visits": 3726,
+      "visit_date": "2016-11-09"
+    },
+    {
+      "total_visits": 3981,
+      "visit_date": "2016-11-08"
+    },
+    {
+      "total_visits": 3819,
+      "visit_date": "2016-11-07"
+    },
+    {
+      "total_visits": 2874,
+      "visit_date": "2016-11-06"
+    },
+    {
+      "total_visits": 3106,
+      "visit_date": "2016-11-05"
+    },
+    {
+      "total_visits": 3784,
+      "visit_date": "2016-11-04"
+    },
+    {
+      "total_visits": 3996,
+      "visit_date": "2016-11-03"
+    },
+    {
+      "total_visits": 3897,
+      "visit_date": "2016-11-02"
+    },
+    {
+      "total_visits": 3703,
+      "visit_date": "2016-11-01"
+    },
+    {
+      "total_visits": 3824,
+      "visit_date": "2016-10-31"
+    },
+    {
+      "total_visits": 2959,
+      "visit_date": "2016-10-30"
+    },
+    {
+      "total_visits": 3028,
+      "visit_date": "2016-10-29"
+    },
+    {
+      "total_visits": 3969,
+      "visit_date": "2016-10-28"
+    },
+    {
+      "total_visits": 4181,
+      "visit_date": "2016-10-27"
+    },
+    {
+      "total_visits": 4352,
+      "visit_date": "2016-10-26"
+    },
+    {
+      "total_visits": 3857,
+      "visit_date": "2016-10-25"
+    },
+    {
+      "total_visits": 3894,
+      "visit_date": "2016-10-24"
+    },
+    {
+      "total_visits": 2860,
+      "visit_date": "2016-10-23"
+    },
+    {
+      "total_visits": 3100,
+      "visit_date": "2016-10-22"
+    },
+    {
+      "total_visits": 3542,
+      "visit_date": "2016-10-21"
+    },
+    {
+      "total_visits": 3714,
+      "visit_date": "2016-10-20"
+    },
+    {
+      "total_visits": 3557,
+      "visit_date": "2016-10-19"
+    },
+    {
+      "total_visits": 3482,
+      "visit_date": "2016-10-18"
+    },
+    {
+      "total_visits": 3356,
+      "visit_date": "2016-10-17"
+    },
+    {
+      "total_visits": 2566,
+      "visit_date": "2016-10-16"
+    },
+    {
+      "total_visits": 2464,
+      "visit_date": "2016-10-15"
+    },
+    {
+      "total_visits": 2928,
+      "visit_date": "2016-10-14"
+    },
+    {
+      "total_visits": 2940,
+      "visit_date": "2016-10-13"
+    },
+    {
+      "total_visits": 2830,
+      "visit_date": "2016-10-12"
+    },
+    {
+      "total_visits": 2939,
+      "visit_date": "2016-10-11"
+    },
+    {
+      "total_visits": 2746,
+      "visit_date": "2016-10-10"
+    },
+    {
+      "total_visits": 2117,
+      "visit_date": "2016-10-09"
+    },
+    {
+      "total_visits": 2165,
+      "visit_date": "2016-10-08"
+    },
+    {
+      "total_visits": 3030,
+      "visit_date": "2016-10-07"
+    },
+    {
+      "total_visits": 3101,
+      "visit_date": "2016-10-06"
+    },
+    {
+      "total_visits": 4125,
+      "visit_date": "2016-10-05"
+    },
+    {
+      "total_visits": 3855,
+      "visit_date": "2016-10-04"
+    },
+    {
+      "total_visits": 2321,
+      "visit_date": "2016-10-03"
+    },
+    {
+      "total_visits": 1593,
+      "visit_date": "2016-10-02"
+    },
+    {
+      "total_visits": 1719,
+      "visit_date": "2016-10-01"
+    },
+    {
+      "total_visits": 2371,
+      "visit_date": "2016-09-30"
+    },
+    {
+      "total_visits": 2513,
+      "visit_date": "2016-09-29"
+    },
+    {
+      "total_visits": 2617,
+      "visit_date": "2016-09-28"
+    },
+    {
+      "total_visits": 2780,
+      "visit_date": "2016-09-27"
+    },
+    {
+      "total_visits": 2708,
+      "visit_date": "2016-09-26"
+    },
+    {
+      "total_visits": 1757,
+      "visit_date": "2016-09-25"
+    },
+    {
+      "total_visits": 1902,
+      "visit_date": "2016-09-24"
+    },
+    {
+      "total_visits": 2429,
+      "visit_date": "2016-09-23"
+    },
+    {
+      "total_visits": 2656,
+      "visit_date": "2016-09-22"
+    },
+    {
+      "total_visits": 2776,
+      "visit_date": "2016-09-21"
+    },
+    {
+      "total_visits": 2719,
+      "visit_date": "2016-09-20"
+    },
+    {
+      "total_visits": 2580,
+      "visit_date": "2016-09-19"
+    },
+    {
+      "total_visits": 1741,
+      "visit_date": "2016-09-18"
+    },
+    {
+      "total_visits": 1946,
+      "visit_date": "2016-09-17"
+    },
+    {
+      "total_visits": 2770,
+      "visit_date": "2016-09-16"
+    },
+    {
+      "total_visits": 2856,
+      "visit_date": "2016-09-15"
+    },
+    {
+      "total_visits": 2637,
+      "visit_date": "2016-09-14"
+    },
+    {
+      "total_visits": 2391,
+      "visit_date": "2016-09-13"
+    },
+    {
+      "total_visits": 2353,
+      "visit_date": "2016-09-12"
+    },
+    {
+      "total_visits": 1673,
+      "visit_date": "2016-09-11"
+    },
+    {
+      "total_visits": 1714,
+      "visit_date": "2016-09-10"
+    },
+    {
+      "total_visits": 2758,
+      "visit_date": "2016-09-09"
+    },
+    {
+      "total_visits": 2533,
+      "visit_date": "2016-09-08"
+    },
+    {
+      "total_visits": 2559,
+      "visit_date": "2016-09-07"
+    },
+    {
+      "total_visits": 2479,
+      "visit_date": "2016-09-06"
+    },
+    {
+      "total_visits": 2053,
+      "visit_date": "2016-09-05"
+    },
+    {
+      "total_visits": 1646,
+      "visit_date": "2016-09-04"
+    },
+    {
+      "total_visits": 1856,
+      "visit_date": "2016-09-03"
+    },
+    {
+      "total_visits": 2678,
+      "visit_date": "2016-09-02"
+    },
+    {
+      "total_visits": 2706,
+      "visit_date": "2016-09-01"
+    },
+    {
+      "total_visits": 3320,
+      "visit_date": "2016-08-31"
+    },
+    {
+      "total_visits": 2508,
+      "visit_date": "2016-08-30"
+    },
+    {
+      "total_visits": 2356,
+      "visit_date": "2016-08-29"
+    },
+    {
+      "total_visits": 1594,
+      "visit_date": "2016-08-28"
+    },
+    {
+      "total_visits": 1729,
+      "visit_date": "2016-08-27"
+    },
+    {
+      "total_visits": 2534,
+      "visit_date": "2016-08-26"
+    },
+    {
+      "total_visits": 2529,
+      "visit_date": "2016-08-25"
+    },
+    {
+      "total_visits": 2619,
+      "visit_date": "2016-08-24"
+    },
+    {
+      "total_visits": 2767,
+      "visit_date": "2016-08-23"
+    },
+    {
+      "total_visits": 2464,
+      "visit_date": "2016-08-22"
+    },
+    {
+      "total_visits": 1615,
+      "visit_date": "2016-08-21"
+    },
+    {
+      "total_visits": 1800,
+      "visit_date": "2016-08-20"
+    },
+    {
+      "total_visits": 2517,
+      "visit_date": "2016-08-19"
+    },
+    {
+      "total_visits": 2694,
+      "visit_date": "2016-08-18"
+    },
+    {
+      "total_visits": 2794,
+      "visit_date": "2016-08-17"
+    },
+    {
+      "total_visits": 2879,
+      "visit_date": "2016-08-16"
+    },
+    {
+      "total_visits": 2966,
+      "visit_date": "2016-08-15"
+    },
+    {
+      "total_visits": 1650,
+      "visit_date": "2016-08-14"
+    },
+    {
+      "total_visits": 1696,
+      "visit_date": "2016-08-13"
+    },
+    {
+      "total_visits": 2701,
+      "visit_date": "2016-08-12"
+    },
+    {
+      "total_visits": 2653,
+      "visit_date": "2016-08-11"
+    },
+    {
+      "total_visits": 2858,
+      "visit_date": "2016-08-10"
+    },
+    {
+      "total_visits": 2805,
+      "visit_date": "2016-08-09"
+    },
+    {
+      "total_visits": 2714,
+      "visit_date": "2016-08-08"
+    },
+    {
+      "total_visits": 1524,
+      "visit_date": "2016-08-07"
+    },
+    {
+      "total_visits": 1708,
+      "visit_date": "2016-08-06"
+    },
+    {
+      "total_visits": 2994,
+      "visit_date": "2016-08-05"
+    },
+    {
+      "total_visits": 3176,
+      "visit_date": "2016-08-04"
+    },
+    {
+      "total_visits": 2703,
+      "visit_date": "2016-08-03"
+    },
+    {
+      "total_visits": 1963,
+      "visit_date": "2016-08-02"
+    },
+    {
+      "total_visits": 1296,
+      "visit_date": "2016-08-01"
+    }
+  ]
+}
