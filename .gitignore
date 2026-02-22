@@ -144,6 +144,31 @@ ENV/
 env.bak/
 venv.bak/
 
+# Keep template env file tracked
+!.env.example
+!pipeline/.env.example
+
+# Project secrets (case study)
+pipeline/service_account.json
+pipeline/service_account*.json
+service_account.json
+service_account*.json
+
+# Project generated outputs (case study)
+pipeline/raw_responses/**
+pipeline/run_manifests/**
+
+# Keep only curated samples if you create them
+!pipeline/raw_responses/sample/
+!pipeline/raw_responses/sample/**
+
+# Root-level fallbacks (if generated outside pipeline/)
+raw_responses/**
+run_manifests/**
+
+# Airflow generated logs (if created later)
+airflow/logs/
+
 # Spyder project settings
 .spyderproject
 .spyproject
